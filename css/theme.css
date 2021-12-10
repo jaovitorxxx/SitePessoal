@@ -126,7 +126,7 @@ hr {
 }
 
 .navigation-bar .logo{
-	max-width: 180px;
+	max-width: 110px;
 	display: inline-block;
 	padding: 1rem;
 }
@@ -168,7 +168,7 @@ hr {
 	padding: 25px; 
 	text-align: center;
 	width: 100%;
-	color: orange;
+	color: #ffa500;
 	font-size: 20px;
 }
 
@@ -352,7 +352,7 @@ input, textarea {
 
 footer {
 	background-color: #eee;
-	padding: 5rem 0;
+	padding: 1rem 0;
 }
 
 
@@ -441,7 +441,7 @@ footer li a{
 	height: 430px;
 	width: 430px;
 	align-items: center;
-	margin-left: 80px;
+	margin-left:px;
 	position: relative;
 	display: flex;
 }
